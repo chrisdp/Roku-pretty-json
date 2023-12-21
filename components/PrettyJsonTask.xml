@@ -1,0 +1,8 @@
+<component name="PrettyJsonTask" extends="Task">
+  <script type="text/brightscript" uri="PrettyJsonTask.brs" />
+	<interface>
+		<field id="input" type="string" />
+		<field id="output" type="string" />
+		<field id="progress" type="integer" />
+	</interface>
+</component>
